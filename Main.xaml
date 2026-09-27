@@ -310,7 +310,7 @@
                   <ActivityFunc.Argument>
                     <DelegateInArgument x:TypeArguments="sd:Image" Name="Image" />
                   </ActivityFunc.Argument>
-                  <p:UiPathDocumentOCR ImageFile="{x:Null}" Output="{x:Null}" PredictionId="{x:Null}" Text="{x:Null}" UseLocalServer="{x:Null}" ApiKey="MfUPdNFMKQJwzAgN6Ws9ashL+WrPjJRCECRiRlnYkQ4TRdnzD3XG3kBbxQVqrpnpwjT+q3JxjoWNcshPI5M0OQ==" ComputeSkewAngle="False" DisplayName="UiPath Document OCR API" Endpoint="https://du.uipath.com/ocr" ExtractWords="True" sap:VirtualizedContainerService.HintSize="334.4,91.2" sap2010:WorkflowViewState.IdRef="UiPathDocumentOCR_1" Image="[Image]" Language="auto" NoopExecution="False" Profile="None" Scale="1" Timeout="100000" UseSeparateOcrProcess="True">
+                  <p:UiPathDocumentOCR ImageFile="{x:Null}" Output="{x:Null}" PredictionId="{x:Null}" Text="{x:Null}" UseLocalServer="{x:Null}" ApiKey="API GİR" ComputeSkewAngle="False" DisplayName="UiPath Document OCR API" Endpoint="https://du.uipath.com/ocr" ExtractWords="True" sap:VirtualizedContainerService.HintSize="334.4,91.2" sap2010:WorkflowViewState.IdRef="UiPathDocumentOCR_1" Image="[Image]" Language="auto" NoopExecution="False" Profile="None" Scale="1" Timeout="100000" UseSeparateOcrProcess="True">
                     <p:UiPathDocumentOCR.Source>
                       <p:OcrImageInput ImageFile="{x:Null}" Image="[Image]" />
                     </p:UiPathDocumentOCR.Source>
