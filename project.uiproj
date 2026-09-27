@@ -1,0 +1,6 @@
+{
+  "Name": "Scanned Receipts OCR",
+  "ProjectType": "Process",
+  "Description": " OCR kullanarak makbuzları kazıma ve ardından değerleri .txt dosyalarında saklama otomasyonu",
+  "MainFile": "Main.xaml"
+}
